@@ -3,10 +3,10 @@
 ## 🖖 Olá, meu nome é <strong>Hitalo Albuquerque!</strong>
 <h3>Apaixonado por tecnologia e extrovertido!</h3>
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💻 Desenvolvedor Front End / Mobile na <a href="https://www.704apps.com.br/">704apps</a>.
 - 🎓 Formação em **Full Stack** pela <a href="https://digitalcollege.com.br/">Digital College</a>.
 - 👨‍💻 Aperfeiçoando meus conhecimentos no <a href="https://sujeitoprogramador.com/fabricadeaplicativos/">Fábrica de Aplicativos</a>.
-- 🎓 Cursando **Análise e Desenolvimento de Sistemas** na <a href="https://descomplica.com.br/">Faculdade Descomplica</a>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/">Faculdade Descomplica</a>
 
 ## 🚀 Minhas Skills
 
